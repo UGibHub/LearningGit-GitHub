@@ -1,0 +1,14 @@
+/home/gherb/Documents/CSharp/LearningGit/bin/Debug/net8.0/LearningGit
+/home/gherb/Documents/CSharp/LearningGit/bin/Debug/net8.0/LearningGit.deps.json
+/home/gherb/Documents/CSharp/LearningGit/bin/Debug/net8.0/LearningGit.runtimeconfig.json
+/home/gherb/Documents/CSharp/LearningGit/bin/Debug/net8.0/LearningGit.dll
+/home/gherb/Documents/CSharp/LearningGit/bin/Debug/net8.0/LearningGit.pdb
+/home/gherb/Documents/CSharp/LearningGit/obj/Debug/net8.0/LearningGit.GeneratedMSBuildEditorConfig.editorconfig
+/home/gherb/Documents/CSharp/LearningGit/obj/Debug/net8.0/LearningGit.AssemblyInfoInputs.cache
+/home/gherb/Documents/CSharp/LearningGit/obj/Debug/net8.0/LearningGit.AssemblyInfo.cs
+/home/gherb/Documents/CSharp/LearningGit/obj/Debug/net8.0/LearningGit.csproj.CoreCompileInputs.cache
+/home/gherb/Documents/CSharp/LearningGit/obj/Debug/net8.0/LearningGit.dll
+/home/gherb/Documents/CSharp/LearningGit/obj/Debug/net8.0/refint/LearningGit.dll
+/home/gherb/Documents/CSharp/LearningGit/obj/Debug/net8.0/LearningGit.pdb
+/home/gherb/Documents/CSharp/LearningGit/obj/Debug/net8.0/LearningGit.genruntimeconfig.cache
+/home/gherb/Documents/CSharp/LearningGit/obj/Debug/net8.0/ref/LearningGit.dll
